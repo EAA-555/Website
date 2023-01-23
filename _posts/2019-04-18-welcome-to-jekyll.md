@@ -9,6 +9,8 @@ tags:
   - "2023"
 ---
 
-<iframe style="border: none; width: 100%" src="https://mailchi.mp/1f86bb3515c3/saturday-party-news-at-eaa-chapter-555-in-las-cruces?e=05d2acf682">
+<div style="width: 100%; height: 100vh;" id="iframe-wrapper">
+<iframe style="border: none; width: 100%; display: block;" src="https://mailchi.mp/1f86bb3515c3/saturday-party-news-at-eaa-chapter-555-in-las-cruces?e=05d2acf682">
   Sorry, but your browser doesn't support iframes.
 </iframe>
+</div>

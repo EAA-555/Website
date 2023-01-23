@@ -5,8 +5,6 @@ header:
   teaser: "/assets/images/piper_cub.jpg"
 ---
 
-# Welcome to our chapter
-
 **EAA Chapter 555** invites you to visit and enjoy many opportunities to meet aviation enthusiasts whether you fly, build, restore or simply enjoy airplanes and aviation in general.
 Our members and guests are able to meet aviation enthusiasts, aircraft builders, pilots, and like minded people to share ideas, ask questions, exchange information, learn about and encourage safety, be involved in and serve the aviation community - and have fun doing so.
 

@@ -1,8 +1,23 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+EAA Local chapters are about people, bringing together individuals interested in learning more about aviation as well as sharing their own knowledge.
+Chapter members are involved in a variety of social and educational activities, including Young Eagles rallies, fly-ins, building seminars, and more, to build aviation awareness in the community.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**PLEASE NOTE CORRECTION TO MEETING DATES:**
+
+Our monthly breakfasts are on the THIRD SUNDAY of every month.
+Chapter meetings are held at 9:30 a.m. on the SATURDAY IMMEDIATELY BEFORE the third Sunday
+
+**President:** Wes Baker<br />
+**Contact:** 575-541-1198 \| eaachapter555@gmail.com<br />
+**Meetings:** Every 3rd Saturday 9:30 AM<br />
+**Location:**
+610 Wingspan Dr
+Las Cruces, NM 88005<br />
+**Programs:** Young Eagles, Technical Counselors, Eagle Flights, Ray Aviation Scholarship
+
+The EAA Triple Nickel Chapter has many opportunities to host functions and for members to personally view some beautiful and many times rare aircraft.
+If you want to help host or join in these activities, please contact us!

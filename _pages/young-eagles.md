@@ -11,17 +11,17 @@ Today, the Young Eagles program has flown over 2 million kids.
 
 For more information from EAA headquarters about the Young Eagles program, visit [youngeagles.org][1]
 
-You Are NeverToo Young to Love Aviation!
+You Are Never Too Young to Love Aviation!
 
 **UPDATE: New Young Eagles Coordinator for 2022**
 
 Deanie Southard has accepted the coordinator for and oversight of our Young Eagles Program. 
 Many thanks to her for continuing the tremendous work and dedication to the Young Eagles program that
-Chris Campbell provided the EAA555. 
+Chris Campbell provided the EAA 555. 
 
 Contact Information for Deanie is as follows:
 
-(503)-703-5181<br />
-chilipepperlvr@gmail.com
+**Phone:** (503)-703-5181<br />
+**Email:** chilipepperlvr@gmail.com
 
 [1]: https://youngeagles.org

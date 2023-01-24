@@ -1,8 +1,10 @@
 ---
+layout: single
+classes: wide
 permalink: /about/
 title: "About Us"
 header:
-  overlay_image: "/assets/images/piper_cub.jpg"
+  overlay_image: "/assets/images/ifr_chart.jpg"
 ---
 
 EAA Local chapters are about people, bringing together individuals interested in learning more about aviation as well as sharing their own knowledge.

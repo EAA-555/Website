@@ -2,7 +2,7 @@
 layout: home
 author_profile: false
 header:
-  teaser: "/assets/images/piper_cub.jpg"
+  overlay_image: "/assets/images/piper_cub.jpg"
 ---
 
 **EAA Chapter 555** invites you to visit and enjoy many opportunities to meet aviation enthusiasts whether you fly, build, restore or simply enjoy airplanes and aviation in general.
